@@ -1,5 +1,6 @@
 <!-- PROYECTOS DESTACADOS -->
 **Kakebo** — Aplicación de finanzas personales con FastAPI, Next.js, PostgreSQL y Neon DB
+
 **LigeraApp** — Tracker de progreso de entrenamiento hecho con Next.js, Supabase y Tailwind
 
 ---
