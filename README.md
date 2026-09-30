@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- PROYECTOS DESTACADOS -->
+**Kakebo** — Aplicación de finanzas personales con FastAPI, Next.js, PostgreSQL y Neon DB
+**LigeraApp** — Tracker de progreso de entrenamiento hecho con Next.js, Supabase y Tailwind
 
-<!--
-**ivancadev/ivancadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,astro,tailwind,nodejs,express,py,fastapi,postgres,supabase,docker,git,figma" />
+  </a>
+</p>
+
+---
+
+### Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivancadev&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
